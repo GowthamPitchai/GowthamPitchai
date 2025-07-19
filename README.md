@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Gowtham Pitchaimuthu
 - 👀 I’m interested in :Travel
-- 🌱 I’m currently learning :Python Data Science
 - 📫 How to reach me ::)
